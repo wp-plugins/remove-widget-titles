@@ -41,5 +41,5 @@ Alternatively, you can install the plugin automatically through the WordPress Ad
 
 == Changelog ==
 
-= 1.0 (20th February 2008) =
+= 1.0 (23 November 2011) =
 * Initial Release
