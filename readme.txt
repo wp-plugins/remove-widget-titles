@@ -3,7 +3,7 @@ Contributors: StephenCronin
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=sjc@scratch99.com&currency_code=&amount=&return=&item_name=WP-RemoveWidgetTitles
 Tags: widget, widget titles, hide, remove, usability
 Requires at least: 2.6.0
-Tested up to: 3.2.1
+Tested up to: 3.8
 Stable tag: 1.0
 Removes the title from any widget that has a title starting with the "!" character.
 
@@ -18,7 +18,8 @@ If you have a widget for which you do not want the title to appear on the front 
 
 = Compatibility =
 * This plugin requires WordPress 2.6 or above.
-* I am not currently aware of any compatibility issues with any other WordPress plugins.
+* It will work with widgets that are part of WordPress core.
+* It may or may not work with widgets created by plugins (depending on how the plugin creates the widget).
 
 = Similar Plugins =
 There is another plugin called [Hide Widget Title](http://wordpress.org/extend/plugins/hide-widget-title/), but that leaves the widget title in the page source and hides it using CSS (adding another http request which slows load time slightly). Remove Widget Titles actually removes the widget title from the HTML. The plugin is only 7 lines of code, so it is extremely light and has minimal impact on performance.
