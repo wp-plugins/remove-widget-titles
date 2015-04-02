@@ -3,7 +3,7 @@ Contributors: StephenCronin
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=sjc@scratch99.com&currency_code=&amount=&return=&item_name=WP-RemoveWidgetTitles
 Tags: widget, widget titles, hide, remove, usability
 Requires at least: 2.6.0
-Tested up to: 3.8.1
+Tested up to: 4.1.1
 Stable tag: 1.0
 Removes the title from any widget that has a title starting with the "!" character.
 
